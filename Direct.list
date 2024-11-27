@@ -36,6 +36,27 @@ IP-CIDR,114.115.192.11/32,no-resolve
 IP-CIDR,116.205.5.1/32,no-resolve
 IP-CIDR,139.9.23.90/32,no-resolve
 
+# 财经
+DOMAIN-SUFFIX,tdx.com.cn
+DOMAIN-SUFFIX,,cls.cn
+DOMAIN-SUFFIX,10jqka.com.cn
+DOMAIN-SUFFIX,eastmoney.com
+DOMAIN-SUFFIX,xuangutong.com.cn
+DOMAIN-KEYWORD,tdx
+DOMAIN-KEYWORD,10jqka
+DOMAIN-KEYWORD,xuangutong
+DOMAIN-KEYWORD,xuangubao
+DOMAIN-KEYWORD,htjs
+DOMAIN-KEYWORD,baiwang
+DOMAIN-KEYWORD,wallstreetcn
+PROCESS-NAME,com.yicai.news
+PROCESS-NAME,com.hexun.news
+PROCESS-NAME,com.lanjinger.choiassociatedpress
+PROCESS-NAME,net.htjs.mobile.hnsw
+PROCESS-NAME,com.wallstreetcn.news
+
+
+
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
