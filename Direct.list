@@ -44,6 +44,8 @@ DOMAIN-SUFFIX,eastmoney.com
 DOMAIN-SUFFIX,xuangutong.com.cn
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,eq.10jqka.com.cn
+DOMAIN-SUFFIX,cn.unionpay.com
+DOMAIN-KEYWORD,unionpay
 DOMAIN-KEYWORD,tdx
 DOMAIN-KEYWORD,10jqka
 DOMAIN-KEYWORD,xuangutong
