@@ -38,7 +38,7 @@ IP-CIDR,139.9.23.90/32,no-resolve
 
 # 财经
 DOMAIN-SUFFIX,tdx.com.cn
-DOMAIN-SUFFIX,,cls.cn
+DOMAIN-SUFFIX,cls.cn
 DOMAIN-SUFFIX,10jqka.com.cn
 DOMAIN-SUFFIX,eastmoney.com
 DOMAIN-SUFFIX,xuangutong.com.cn
@@ -59,8 +59,23 @@ PROCESS-NAME,com.lanjinger.choiassociatedpress
 PROCESS-NAME,net.htjs.mobile.hnsw
 PROCESS-NAME,com.wallstreetcn.news
 PROCESS-NAME,com.unionpay
-
-
+DOMAIN-KEYWORD,pingan
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,spdb.com.cn
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,creditcard.ecitic.com
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,cmbc.com.cn
+DOMAIN-SUFFIX,cib.com.cn
+DOMAIN-KEYWORD,cmbchina
+DOMAIN-KEYWORD,spdb
+DOMAIN-KEYWORD,icbc
+DOMAIN-KEYWORD,bankcomm
+DOMAIN-KEYWORD,ecitic
+DOMAIN-KEYWORD,citicbank
+DOMAIN-KEYWORD,cmbc
+DOMAIN-KEYWORD,cib
 
 # 360
 DOMAIN-SUFFIX,360.com
