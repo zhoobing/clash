@@ -35,12 +35,17 @@ IP-CIDR,122.112.208.1/32,no-resolve
 IP-CIDR,114.115.192.11/32,no-resolve
 IP-CIDR,116.205.5.1/32,no-resolve
 IP-CIDR,139.9.23.90/32,no-resolve
+IP-CIDR,198.18.1.234/32,no-resolve
+IP-CIDR,198.18.1.237/24,no-resolve
+IP-CIDR,198.18.2.8/24,no-resolve
+IP-CIDR,121.36.23.37/24,no-resolve
 
 # 财经
 DOMAIN-SUFFIX,tdx.com.cn
 DOMAIN-SUFFIX,cls.cn
 DOMAIN-SUFFIX,10jqka.com.cn
 DOMAIN-SUFFIX,eastmoney.com
+DOMAIN-SUFFIX,baiwang.com
 DOMAIN-SUFFIX,xuangutong.com.cn
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,eq.10jqka.com.cn
@@ -59,6 +64,7 @@ PROCESS-NAME,com.lanjinger.choiassociatedpress
 PROCESS-NAME,net.htjs.mobile.hnsw
 PROCESS-NAME,com.wallstreetcn.news
 PROCESS-NAME,com.unionpay
+PROCESS-NAME,BBWEClientbrv.exe
 DOMAIN-KEYWORD,pingan
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,spdb.com.cn
