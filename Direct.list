@@ -46,6 +46,8 @@ DOMAIN-SUFFIX,cls.cn
 DOMAIN-SUFFIX,10jqka.com.cn
 DOMAIN-SUFFIX,eastmoney.com
 DOMAIN-SUFFIX,baiwang.com
+DOMAIN-SUFFIX,fatecore.com
+DOMAIN-SUFFIX,owm.fatecore.com
 DOMAIN-SUFFIX,xuangutong.com.cn
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,eq.10jqka.com.cn
@@ -82,6 +84,8 @@ DOMAIN-KEYWORD,ecitic
 DOMAIN-KEYWORD,citicbank
 DOMAIN-KEYWORD,cmbc
 DOMAIN-KEYWORD,cib
+DOMAIN-KEYWORD,OpenWebMonitor
+
 
 # 360
 DOMAIN-SUFFIX,360.com
