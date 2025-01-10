@@ -41,6 +41,7 @@ IP-CIDR,198.18.2.8/24,no-resolve
 IP-CIDR,121.36.23.37/24,no-resolve
 
 # 财经
+DOMAIN-SUFFIX,drive.uc.cn
 DOMAIN-SUFFIX,tdx.com.cn
 DOMAIN-SUFFIX,cls.cn
 DOMAIN-SUFFIX,10jqka.com.cn
