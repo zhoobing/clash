@@ -1,4 +1,9 @@
 # 内容：OpenAi Bard anthropic
+
+#匹配后缀，然后拒绝
+DOMAIN-KEYWORD,io,REJECT	
+DOMAIN-SUFFIX,adobe.io,REJECT
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
