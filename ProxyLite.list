@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,qichiyu.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
+#匹配后缀，然后拒绝
+DOMAIN-KEYWORD,io,REJECT	
+DOMAIN-SUFFIX,adobe.io,REJECT
 
 
 # 国外DNS
